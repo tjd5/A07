@@ -1,1 +1,3 @@
-p.solid {outline-style: solid;}
+p {
+  p.solid {outline-style: solid;
+  }
