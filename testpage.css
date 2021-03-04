@@ -1,3 +1,7 @@
 p {
-  p.solid {outline-style: solid;
-  }
+  border: 2px solid black;
+  outline: #000000 solid 2px;
+  margin: auto;  
+  padding: 20px;
+  text-align: center;
+}
